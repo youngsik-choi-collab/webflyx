@@ -1,0 +1,72 @@
+[33mcommit f00282c340afbec8b50e07c9a432b226e671e05d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 19:10:23 2026 -0400
+
+    J: Intern revision
+
+[33mcommit 1388d089d06342c2917debd7377ab58b5848b2cc[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 18:56:45 2026 -0400
+
+    I: Add fear quote
+
+[33mcommit 6ee8a6ae68db0df86bb6d83ab2a49774d7c21444[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 18:56:18 2026 -0400
+
+    dune.md movded to quotes
+
+[33mcommit 29a0d79d48d8eddc014b5dbd949650f27d3b0c3a[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 18:55:33 2026 -0400
+
+    H: Update dune.md 1st commit
+
+[33mcommit e2287cf9fc6ece30b5d0168c3247c3f3a14825be[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 18:52:25 2026 -0400
+
+    H: Update dune.md 1st commit
+
+[33mcommit 89af55f4a6eb719af641d75b19028837f23f23a1[m[33m ([m[1;32mmain[m[33m)[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 18:59:51 2026 -0400
+
+    C: ---
+
+[33mcommit 951e18c7c7550afc0c5ed49f5bb2316d28f5cf49[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 18:59:40 2026 -0400
+
+    B: ---
+
+[33mcommit 17955373eb92345ac8d9c914ffb38f1180f53755[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 16:11:56 2026 -0400
+
+    G: Update titles.md
+
+[33mcommit 3cc7f2aec3e69843abdd179d2bb23914620b3b2d[m
+Merge: 1207f6a abeab7e
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 15:54:08 2026 -0400
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 1207f6a06dec2edde7ece2d4958d83e1c540c5d7[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sat Oct 17 15:49:25 2026 -0400
+
+    E: Update changes
+
+[33mcommit abeab7e48411b7fd5252357fbdb1df5dd37991c2[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sun Oct 4 22:22:48 2026 -0400
+
+    D: add classics.csv file
+
+[33mcommit 84924b1e27dcdd42e731e2c35a330104a0f6e140[m
+Author: youngsik-choi <yschoi1504@gmail.com>
+Date:   Sun Sep 13 21:17:15 2026 -0400
+
+    A: add contents.md
